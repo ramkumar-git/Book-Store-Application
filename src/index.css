@@ -1,0 +1,46 @@
+h1 {
+  color: white;
+  text-align: center;
+  border: 2px solid darkgrey;
+  background-color: #0b779c;
+  margin-top: 30px;
+}
+
+.App {
+  border: 2px solid darkgrey;
+  box-shadow: 0 2px 8px 5px #ccc;
+  margin-top: 40px;
+}
+
+.search {
+  margin-top: 15px;
+}
+
+input[type='checkbox'] {
+  width: 20px;
+  height: 20px;
+}
+
+th {
+  color: black;
+  background-color: #ccc;
+}
+
+.customTextbox {
+  width: 250px;
+}
+
+.customHeader {
+  width: 150px;
+}
+
+tr {
+  text-align: center;
+}
+
+.error {
+  text-align: center;
+  font-size: larger;
+  font-weight: bold;
+  color: red;
+}

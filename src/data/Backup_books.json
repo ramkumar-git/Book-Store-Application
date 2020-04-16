@@ -1,0 +1,26 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "isbn": "9780099590088",
+      "publicationDate": "05/23/2015",
+      "publisher": "Vintage Publishing",
+      "price": "499",
+      "genre": "History & Humanities",
+      "format": "PDF"
+    },
+    {
+      "id": "2",
+      "title": "Snug",
+      "author": "Catana Chetwynd",
+      "isbn": "9781524854638",
+      "publicationDate": "09/01/2020",
+      "publisher": "Andrews McMeel Publishing",
+      "price": "395",
+      "genre": "General",
+      "format": "Comic book archive"
+    }
+  ]
+}
