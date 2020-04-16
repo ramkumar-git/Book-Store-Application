@@ -8,4 +8,6 @@
 #Commands
 
 1. npm install // Install all required packages
-2. json-server -p 4000 -w books.json // To run the local Json server
+2. npm start // To run the application
+3. json-server -p 4000 -w books.json // To run the local Json server
+
